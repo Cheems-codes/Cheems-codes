@@ -42,4 +42,4 @@ Currently a BSIT Student, passionate about full-stack development, cybersecurity
 - Leadership
 - Attentive to Detail
 
-📫 Reach me at **olbeseurico@gmail.com** <3
+📫 Reach me at **olbeseurico@gmail.com**<3
