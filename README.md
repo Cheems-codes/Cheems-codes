@@ -4,7 +4,7 @@ Currently a BSIT Student, passionate about full-stack development, cybersecurity
 
 ## About Me
 
-- 🎓 BS in Information Technology, Philippine Christian University Manila (Anticipated Graduation: May 2029)
+- 🎓 BS in Information Technology (Anticipated Graduation: May 2029)
 - 🛠️ I like building complete systems end-to-end — from database design to deployment
 - 📊 Currently serving as **Auditor** for the Junior Philippine Computer Society (JPCS)
 - 🎨 Background in graphic design and social media management
