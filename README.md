@@ -23,7 +23,7 @@ Currently a BSIT Student, passionate about full-stack development, cybersecurity
 `HTML` `CSS` `Vanilla JavaScript` `UI/UX Design Principles`
 
 **Hosting & Deployment**
-`Render.com` `Docker` `ngrok` `GitHub CI/CD`
+`Render.com` `Docker` `ngrok` `GitHub CI/CD` `Netlify` `Vercel`
 
 **Tools**
 `TablePlus` `Git` `GitHub`
