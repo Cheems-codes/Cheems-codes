@@ -6,7 +6,7 @@ Currently a BSIT Student, passionate about full-stack development, cybersecurity
 
 - 🎓 BS in Information Technology (Anticipated Graduation: May 2029)
 - 🛠️ I like building complete systems end-to-end — from database design to deployment
-- 📊 Currently serving as **Secretary** for the Junior Philippine Computer Society PCU Manila Chapter (JPCS)
+- 📊 Currently serving as **Secretary** for the Junior Philippine Computer Society PCU Manila Chapter (JPCS PCU-M)
 - 🎨 Background in graphic design and social media management
 - 📈 Interested in the stock market and forex trading
 - 🗣️ English (Fluent) · Tagalog (Native)
